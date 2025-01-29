@@ -124,45 +124,10 @@ The email processing pipeline includes:
 - Visualization capabilities
 - Duplicate handling
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
 
-- Inspired by various implementations of Particle Swarm Optimization
-- Built upon NLTK and scikit-learn libraries
-- Visualization components powered by matplotlib and WordCloud
 
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers.
-
-## Future Work
-
-- Implementation of parallel tournament evaluation
-- Addition of more sophisticated NLP features
-- Enhanced visualization capabilities
-- Support for more data sources
-- Integration with deep learning models
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@software{coevolution_pso_email,
-  author = {Your Name},
-  title = {Competitive Coevolution PSO with Email Processing},
-  year = {2025},
-  url = {https://github.com/yourusername/coevolution-pso-email}
-}
 ```
